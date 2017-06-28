@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/YaroslavSalomatkin/CityElf.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/YaroslavSalomatkin/BookShop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\CityElfNew" />
+    <option name="cloneParentDir" value="C:\BookShopGit" />
   </component>
 </application>
