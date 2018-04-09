@@ -58,6 +58,10 @@
           <option name="url" value="https://YaroslavSalomatkin@bitbucket.org/imed_technic/imed.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://YaroslavSalomatkin@bitbucket.org/YaroslavSalomatkin/imed_test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\" />
